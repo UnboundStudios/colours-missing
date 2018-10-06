@@ -1,4 +1,9 @@
 [
 null,
+<<<<<<< Updated upstream
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":878,"scrollY":588.6666666666666}
+=======
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":554.4},
+{"id":2,"expanded":false,"name":"HUBWORLD","order":2,"parentId":0,"scrollX":982.8,"scrollY":549.6}
+>>>>>>> Stashed changes
 ]
