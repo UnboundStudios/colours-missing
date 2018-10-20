@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Magenta Land","order":1,"parentId":0,"scrollX":982,"scrollY":890},
 {"id":2,"expanded":false,"name":"Post-Magenta HUB","order":2,"parentId":0,"scrollX":998,"scrollY":906},
-{"id":3,"expanded":false,"name":"CYAN LAND- Phase1","order":3,"parentId":0,"scrollX":1990,"scrollY":1976},
-{"id":4,"expanded":false,"name":"CYAN LAND- Phase2","order":4,"parentId":0,"scrollX":2002,"scrollY":2004},
+{"id":3,"expanded":false,"name":"CYAN LAND- Phase1","order":3,"parentId":0,"scrollX":1990,"scrollY":1980},
+{"id":4,"expanded":false,"name":"CYAN LAND- Phase2","order":4,"parentId":0,"scrollX":2002,"scrollY":2006},
 {"id":5,"expanded":false,"name":"CYAN LAND- Phase3","order":5,"parentId":0,"scrollX":2112,"scrollY":2002}
 ]
