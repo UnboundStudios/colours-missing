@@ -9,6 +9,6 @@ var $plugins =
 {"name":"AltMenuScreen","status":true,"description":"Alternative menu screen layout.","parameters":{}},
 {"name":"MadeWithMv","status":true,"description":"Show a Splash Screen \"Made with MV\" and/or a Custom Splash Screen before going to main screen.","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"10","Fade In Time":"10","Wait Time":"10"}},
 {"name":"Change_Event_Graphic","status":true,"description":"Allows the graphic/direction of events, players, followers, & actors to be changed via script calls.","parameters":{}},
-{"name":"YEP_RegionRestrictions","status":true,"description":"v1.04 Use regions to block out Events and/or the player from\nbeing able to venture into those spots.","parameters":{"Player Restrict":"0","Event Restrict":"7","All Restrict":"0","Player Allow":"0","Event Allow":"0","All Allow":"0"}},
+{"name":"YEP_RegionRestrictions","status":true,"description":"v1.04 Use regions to block out Events and/or the player from\nbeing able to venture into those spots.","parameters":{"Player Restrict":"7","Event Restrict":"7","All Restrict":"0","Player Allow":"0","Event Allow":"0","All Allow":"0"}},
 {"name":"SRD_CameraCore","status":true,"description":"Allows developers to preform various camera motions including focusing and zooming.","parameters":{"Default Zoom":"1","Zoom Pictures?":"true","Margin Formula":"(Graphics.width / scale) - Graphics.width","Fix Black Lines":"false"}}
 ];
