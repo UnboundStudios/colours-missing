@@ -1,9 +1,18 @@
 [
 null,
+<<<<<<< HEAD
+{"id":1,"expanded":true,"name":"Magenta Land","order":5,"parentId":0,"scrollX":1622,"scrollY":891},
+{"id":2,"expanded":true,"name":"Post-Magenta HUB","order":6,"parentId":0,"scrollX":1638,"scrollY":907},
+{"id":3,"expanded":false,"name":"Greyscale Land - Phase1","order":1,"parentId":0,"scrollX":1622,"scrollY":1823},
+{"id":4,"expanded":false,"name":"Greyscale Land - Phase2","order":2,"parentId":0,"scrollX":2702,"scrollY":1949},
+{"id":5,"expanded":false,"name":"Greyscale Land - Phase3","order":3,"parentId":0,"scrollX":2120,"scrollY":1929},
+{"id":6,"expanded":false,"name":"Greyscale HUB","order":4,"parentId":0,"scrollX":1638,"scrollY":907}
+=======
 {"id":1,"expanded":true,"name":"Magenta Land","order":5,"parentId":0,"scrollX":476.5,"scrollY":444},
 {"id":2,"expanded":true,"name":"Post-Magenta HUB","order":6,"parentId":0,"scrollX":476.5,"scrollY":460},
-{"id":3,"expanded":false,"name":"Greyscale Land - Phase1","order":1,"parentId":0,"scrollX":2730.5,"scrollY":1838},
-{"id":4,"expanded":false,"name":"Greyscale Land - Phase2","order":2,"parentId":0,"scrollX":2702.5,"scrollY":1948},
-{"id":5,"expanded":false,"name":"Greyscale Land - Phase3","order":3,"parentId":0,"scrollX":2942.5,"scrollY":1928},
+{"id":3,"expanded":false,"name":"Greyscale Land - Phase1","order":1,"parentId":0,"scrollX":2212,"scrollY":1828},
+{"id":4,"expanded":false,"name":"Greyscale Land - Phase2","order":2,"parentId":0,"scrollX":2248,"scrollY":1744},
+{"id":5,"expanded":false,"name":"Greyscale Land - Phase3","order":3,"parentId":0,"scrollX":2045.3333333333333,"scrollY":1844},
 {"id":6,"expanded":false,"name":"Greyscale HUB","order":4,"parentId":0,"scrollX":484.5,"scrollY":452}
+>>>>>>> 9e347de07112f1a7299239231a8f3002964b39d6
 ]
