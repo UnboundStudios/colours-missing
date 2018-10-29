@@ -1,12 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Magenta Land","order":7,"parentId":0,"scrollX":1721.3333333333333,"scrollY":600},
-{"id":2,"expanded":true,"name":"Post-Magenta HUB","order":5,"parentId":0,"scrollX":1092,"scrollY":610.6666666666666},
-{"id":3,"expanded":false,"name":"Greyscale Land - Phase1","order":1,"parentId":0,"scrollX":2846.5,"scrollY":1779},
+{"id":1,"expanded":true,"name":"Magenta Land","order":7,"parentId":0,"scrollX":616.5,"scrollY":444},
+{"id":2,"expanded":true,"name":"Post-Magenta HUB","order":5,"parentId":0,"scrollX":616.5,"scrollY":460},
+{"id":3,"expanded":false,"name":"Greyscale Land - Phase1","order":1,"parentId":0,"scrollX":3391.5,"scrollY":1787},
 {"id":4,"expanded":false,"name":"Greyscale Land - Phase2","order":2,"parentId":0,"scrollX":2547.5,"scrollY":1878},
 {"id":5,"expanded":false,"name":"Greyscale Land - Phase3","order":3,"parentId":0,"scrollX":2628.5,"scrollY":1935},
-{"id":6,"expanded":false,"name":"post-Greyscale Hub","order":4,"parentId":0,"scrollX":476.5,"scrollY":460},
-null,
+{"id":6,"expanded":false,"name":"post-Greyscale Hub","order":4,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":true,"name":"Pre-Magenta HUB","order":8,"parentId":0,"scrollX":616.5,"scrollY":460},
 null,
 {"id":9,"expanded":false,"name":"Intro HUB","order":6,"parentId":0,"scrollX":1638,"scrollY":907}
 ]
