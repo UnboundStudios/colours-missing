@@ -7,7 +7,7 @@ null,
 {"id":5,"expanded":false,"name":"Greyscale Land - Phase3","order":3,"parentId":0,"scrollX":2628.5,"scrollY":1935},
 {"id":6,"expanded":false,"name":"post-Greyscale Hub","order":4,"parentId":0,"scrollX":616.5,"scrollY":460},
 {"id":7,"expanded":true,"name":"Pre-Magenta HUB","order":8,"parentId":0,"scrollX":616.5,"scrollY":460},
-{"id":8,"expanded":false,"name":"Pre-Greyscale Hub","order":9,"parentId":0,"scrollX":616.5,"scrollY":460},
+{"id":8,"expanded":false,"name":"Pre-Greyscale Hub","order":9,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":9,"expanded":true,"name":"Intro HUB","order":6,"parentId":0,"scrollX":616.5,"scrollY":460},
 {"id":10,"expanded":false,"name":"Video Room","order":10,"parentId":0,"scrollX":624.5,"scrollY":452}
 ]
