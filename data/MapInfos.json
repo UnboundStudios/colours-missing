@@ -9,6 +9,7 @@ null,
 {"id":7,"expanded":true,"name":"Pre-Magenta HUB","order":8,"parentId":0,"scrollX":616.5,"scrollY":460},
 {"id":8,"expanded":false,"name":"Pre-Greyscale Hub","order":9,"parentId":0,"scrollX":616.5,"scrollY":460},
 {"id":9,"expanded":true,"name":"Intro HUB","order":6,"parentId":0,"scrollX":616.5,"scrollY":460},
-{"id":10,"expanded":true,"name":"Video Room","order":10,"parentId":0,"scrollX":624.5,"scrollY":452},
-{"id":11,"expanded":true,"name":"PreM&C HUB","order":11,"parentId":0,"scrollX":616.5,"scrollY":460}
+{"id":10,"expanded":true,"name":"Video Room","order":10,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":true,"name":"PreM&C HUB","order":11,"parentId":0,"scrollX":2395.2,"scrollY":1497.6},
+{"id":12,"expanded":false,"name":"Mag_CYAN LEVEL","order":12,"parentId":0,"scrollX":1964,"scrollY":1576}
 ]
