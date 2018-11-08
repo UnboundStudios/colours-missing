@@ -10,8 +10,9 @@ null,
 {"id":8,"expanded":false,"name":"Pre-Greyscale Hub","order":7,"parentId":0,"scrollX":616.5,"scrollY":460},
 {"id":9,"expanded":true,"name":"Intro HUB","order":4,"parentId":0,"scrollX":616.5,"scrollY":460},
 {"id":10,"expanded":true,"name":"Video Room","order":10,"parentId":0,"scrollX":624.5,"scrollY":452},
-{"id":11,"expanded":true,"name":"PreM&C HUB","order":11,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":12,"expanded":false,"name":"Mag_CYAN LEVEL","order":12,"parentId":0,"scrollX":1854.5,"scrollY":1374},
+{"id":11,"expanded":true,"name":"PreM&C HUB","order":11,"parentId":0,"scrollX":616.5,"scrollY":460},
+{"id":12,"expanded":false,"name":"Mag_CYAN LEVEL","order":12,"parentId":0,"scrollX":1852.5,"scrollY":1226},
 {"id":13,"expanded":true,"name":"End Hub","order":13,"parentId":0,"scrollX":616.5,"scrollY":460},
-{"id":14,"expanded":false,"name":"CM Cutscene Room 1","order":14,"parentId":0,"scrollX":624.5,"scrollY":452}
+{"id":14,"expanded":true,"name":"CM Cutscene Room 1","order":14,"parentId":0,"scrollX":624.5,"scrollY":452},
+{"id":15,"expanded":false,"name":"CM Cutscene Room 2","order":15,"parentId":0,"scrollX":624.5,"scrollY":452}
 ]
