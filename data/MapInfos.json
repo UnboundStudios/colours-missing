@@ -7,12 +7,9 @@ null,
 {"id":5,"expanded":false,"name":"Greyscale Land - Phase3","order":6,"parentId":0,"scrollX":2628.5,"scrollY":1935},
 {"id":6,"expanded":false,"name":"post-Greyscale Hub","order":7,"parentId":0,"scrollX":616.5,"scrollY":460},
 {"id":7,"expanded":true,"name":"Pre-Magenta HUB","order":8,"parentId":0,"scrollX":616.5,"scrollY":460},
-{"id":8,"expanded":false,"name":"Pre-Greyscale Hub","order":3,"parentId":0,"scrollX":616.5,"scrollY":460},
-{"id":9,"expanded":true,"name":"Intro HUB","order":2,"parentId":0,"scrollX":616.5,"scrollY":460},
-{"id":10,"expanded":true,"name":"Video Room","order":1,"parentId":0,"scrollX":624.5,"scrollY":452},
-{"id":11,"expanded":true,"name":"PreM&C HUB","order":11,"parentId":0,"scrollX":616.5,"scrollY":460},
-{"id":12,"expanded":false,"name":"Mag_CYAN LEVEL","order":13,"parentId":0,"scrollX":1993.5,"scrollY":1131},
-{"id":13,"expanded":true,"name":"PostM&C HUB","order":14,"parentId":0,"scrollX":616.5,"scrollY":460},
-{"id":14,"expanded":false,"name":"M&C Scene","order":12,"parentId":0,"scrollX":624.5,"scrollY":452},
-{"id":15,"expanded":true,"name":"End Hub","order":15,"parentId":0,"scrollX":616.5,"scrollY":452}
+{"id":8,"expanded":false,"name":"Pre-Greyscale Hub","order":9,"parentId":0,"scrollX":616.5,"scrollY":460},
+{"id":9,"expanded":true,"name":"Intro HUB","order":6,"parentId":0,"scrollX":616.5,"scrollY":460},
+{"id":10,"expanded":true,"name":"Video Room","order":10,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":true,"name":"PreM&C HUB","order":11,"parentId":0,"scrollX":2395.2,"scrollY":1497.6},
+{"id":12,"expanded":false,"name":"Mag_CYAN LEVEL","order":12,"parentId":0,"scrollX":1823.9999999999998,"scrollY":1506.8571428571427}
 ]
