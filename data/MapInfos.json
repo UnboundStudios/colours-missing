@@ -1,10 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Magenta Land","order":8,"parentId":0,"scrollX":1333.6363636363637,"scrollY":509.4545454545455},
-{"id":2,"expanded":true,"name":"Post-Magenta HUB","order":9,"parentId":0,"scrollX":616.5,"scrollY":460},
-{"id":3,"expanded":false,"name":"Greyscale Land - Phase1","order":1,"parentId":0,"scrollX":2628.5454545454545,"scrollY":1573.0909090909092},
-{"id":4,"expanded":false,"name":"Greyscale Land - Phase2","order":2,"parentId":0,"scrollX":2832.5454545454545,"scrollY":1898.1818181818182},
-{"id":5,"expanded":false,"name":"Greyscale Land - Phase3","order":3,"parentId":0,"scrollX":2406,"scrollY":1795.6363636363637},
+{"id":1,"expanded":true,"name":"Magenta Land","order":8,"parentId":0,"scrollX":672.5454545454546,"scrollY":484.3636363636364},
+{"id":2,"expanded":true,"name":"Post-Magenta HUB","order":9,"parentId":0,"scrollX":681.2727272727273,"scrollY":493.0909090909091},
+{"id":3,"expanded":false,"name":"Greyscale Land - Phase1","order":1,"parentId":0,"scrollX":2407.090909090909,"scrollY":1664.7272727272727},
+{"id":4,"expanded":false,"name":"Greyscale Land - Phase2","order":2,"parentId":0,"scrollX":1936.909090909091,"scrollY":1877.4545454545455},
+{"id":5,"expanded":false,"name":"Greyscale Land - Phase3","order":3,"parentId":0,"scrollX":1693.6363636363637,"scrollY":1959.2727272727273},
 {"id":6,"expanded":false,"name":"post-Greyscale Hub","order":5,"parentId":0,"scrollX":681.2727272727273,"scrollY":493.0909090909091},
 {"id":7,"expanded":true,"name":"Pre-Magenta HUB","order":6,"parentId":0,"scrollX":681.2727272727273,"scrollY":493.0909090909091},
 {"id":8,"expanded":false,"name":"Pre-Greyscale Hub","order":7,"parentId":0,"scrollX":616.5,"scrollY":460},
@@ -13,9 +13,9 @@ null,
 {"id":11,"expanded":true,"name":"PreM&C HUB","order":11,"parentId":0,"scrollX":681.2727272727273,"scrollY":493.0909090909091},
 {"id":12,"expanded":true,"name":"Mag_CYAN LEVEL","order":12,"parentId":0,"scrollX":2080.909090909091,"scrollY":958.909090909091},
 {"id":13,"expanded":true,"name":"End Hub","order":14,"parentId":0,"scrollX":681.2727272727273,"scrollY":493.0909090909091},
-{"id":14,"expanded":true,"name":"CM Cutscene Room 1","order":15,"parentId":0,"scrollX":1786.909090909091,"scrollY":999.2727272727274},
+{"id":14,"expanded":true,"name":"CM Cutscene Room 1","order":15,"parentId":0,"scrollX":681.2727272727273,"scrollY":493.0909090909091},
 {"id":15,"expanded":false,"name":"CM Cutscene Room 2","order":16,"parentId":0,"scrollX":681.2727272727273,"scrollY":493.0909090909091},
 {"id":16,"expanded":true,"name":"Post M&C HUB","order":17,"parentId":0,"scrollX":681.2727272727273,"scrollY":493.0909090909091},
 {"id":17,"expanded":false,"name":"Credits Room","order":18,"parentId":0,"scrollX":681.2727272727273,"scrollY":493.0909090909091},
-{"id":18,"expanded":false,"name":"BLOB_SPAWNER_MAP","order":13,"parentId":12,"scrollX":1786.909090909091,"scrollY":989.4545454545455}
+{"id":18,"expanded":false,"name":"BLOB_SPAWNER_MAP","order":13,"parentId":12,"scrollX":681.2727272727273,"scrollY":493.0909090909091}
 ]
