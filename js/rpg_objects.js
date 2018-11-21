@@ -8510,8 +8510,7 @@ Game_Event.prototype.updateStop = function() {
 };
 
 Game_Event.prototype.updateSelfMovement = function() {
-    if (!this._locked && this.isNearTheScreen() &&
-            this.checkStop(this.stopCountThreshold())) {
+    if (!this._locked && this.checkStop(this.stopCountThreshold())) {
         switch (this._moveType) {
         case 1:
             this.moveTypeRandom();
