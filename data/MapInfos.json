@@ -2,8 +2,8 @@
 null,
 {"id":1,"expanded":true,"name":"Magenta Land","order":11,"parentId":0,"scrollX":604.3636363636364,"scrollY":581.4545454545455},
 {"id":2,"expanded":true,"name":"Post-Magenta HUB","order":12,"parentId":0,"scrollX":613.0909090909091,"scrollY":500.72727272727275},
-{"id":3,"expanded":true,"name":"Greyscale Land - Phase1","order":4,"parentId":0,"scrollX":2000.7272727272727,"scrollY":1668},
-{"id":4,"expanded":true,"name":"Greyscale Land - Phase2","order":5,"parentId":0,"scrollX":1541.4545454545455,"scrollY":1950.5454545454547},
+{"id":3,"expanded":true,"name":"Greyscale Land - Phase1","order":4,"parentId":0,"scrollX":1359.2727272727273,"scrollY":1648.3636363636365},
+{"id":4,"expanded":true,"name":"Greyscale Land - Phase2","order":5,"parentId":0,"scrollX":1704,"scrollY":1978.909090909091},
 {"id":5,"expanded":true,"name":"Greyscale Land - Phase4","order":8,"parentId":0,"scrollX":2138.1818181818185,"scrollY":1929.818181818182},
 {"id":6,"expanded":false,"name":"post-Greyscale Hub","order":9,"parentId":0,"scrollX":613.0909090909091,"scrollY":500.72727272727275},
 {"id":7,"expanded":true,"name":"Pre-Magenta HUB","order":10,"parentId":0,"scrollX":613.0909090909091,"scrollY":500.72727272727275},
@@ -18,6 +18,6 @@ null,
 {"id":16,"expanded":true,"name":"Post M&C HUB","order":18,"parentId":0,"scrollX":613.0909090909091,"scrollY":500.72727272727275},
 {"id":17,"expanded":true,"name":"Credits Room","order":20,"parentId":13,"scrollX":613.0909090909091,"scrollY":500.72727272727275},
 {"id":18,"expanded":false,"name":"BLOB_SPAWNER_MAP","order":16,"parentId":12,"scrollX":613.0909090909091,"scrollY":500.72727272727275},
-{"id":19,"expanded":false,"name":"Greyscale Land - Phase2 ALT","order":6,"parentId":4,"scrollX":2110.285714285714,"scrollY":1897.7142857142856},
+{"id":19,"expanded":false,"name":"Greyscale Land - Phase2 ALT","order":6,"parentId":4,"scrollX":1939.6363636363637,"scrollY":1892.7272727272727},
 {"id":20,"expanded":true,"name":"Greyscale Land - Phase3","order":7,"parentId":0,"scrollX":2000.7272727272727,"scrollY":1901.4545454545455}
 ]
