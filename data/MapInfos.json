@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Magenta Land","order":11,"parentId":0,"scrollX":1726.2857142857142,"scrollY":762.8571428571428},
 {"id":2,"expanded":true,"name":"Post-Magenta HUB","order":12,"parentId":0,"scrollX":855.4285714285713,"scrollY":776.5714285714286},
-{"id":3,"expanded":true,"name":"Greyscale Land - Phase1","order":4,"parentId":0,"scrollX":1897.7142857142856,"scrollY":1397.142857142857},
+{"id":3,"expanded":true,"name":"Greyscale Land - Phase1","order":4,"parentId":0,"scrollX":1530.8571428571427,"scrollY":1397.142857142857},
 {"id":4,"expanded":true,"name":"Greyscale Land - Phase2","order":5,"parentId":0,"scrollX":1897.7142857142856,"scrollY":1979.9999999999998},
 {"id":5,"expanded":true,"name":"Greyscale Land - Phase4","order":8,"parentId":0,"scrollX":2132.5714285714284,"scrollY":1949.142857142857},
 {"id":6,"expanded":false,"name":"post-Greyscale Hub","order":9,"parentId":0,"scrollX":613.0909090909091,"scrollY":500.72727272727275},
