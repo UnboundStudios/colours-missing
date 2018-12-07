@@ -21,5 +21,5 @@ var $plugins =
 {"name":"OrangeHudLine","status":true,"description":"OrangeHudLine 1.5 - Adds a new Variable to Orange Hud","parameters":{"GroupName":"main","Pattern":"Score: %1 / 128","VariableId":"40","SwitchId":"64","X":"0","Y":"8","FontFace":"","FontSize":"","FontColor":"","FontItalic":"","ScriptPattern":"","VariableX":"0","VariableY":"0"}},
 {"name":"ARP_TitleCommandExit","status":true,"description":"v1.00 Adds an option in the title command window to close\r\ngame window.","parameters":{"Command Exit":"Quit Job","Show Exit":"true"}},
 {"name":"SRD_FullscreenToggleOption","status":true,"description":"Adds a Fullscreen Toggle to the Options Window","parameters":{"Option Name":"Fullscreen","Position":"Middle","Default Value":"true","Persist Default?":"false"}},
-{"name":"savesinlocaldata","status":true,"description":"Causes desktop save files to be saved in/loaded from local application directories rather than alongside game data.","parameters":{}}
+{"name":"savesinlocaldata","status":false,"description":"Causes desktop save files to be saved in/loaded from local application directories rather than alongside game data.","parameters":{}}
 ];
