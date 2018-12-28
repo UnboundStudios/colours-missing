@@ -17,7 +17,7 @@ job.*
 
 ## How to Run Game
 * Clone or Fork Repo
-* Open Game.rpg from root folder in RPGMaker MV
+* Open Game.rpgproject from root folder in RPGMaker MV
 * On the top bar hit play
 
 ## Controls:
