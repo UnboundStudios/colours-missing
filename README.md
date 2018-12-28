@@ -1,5 +1,8 @@
 # Colours Missing?! - YiKes!! RPGMaker MV Videogame Project
 
+## Gameplay Trailer and Video
+https://bit.ly/2Q6KDUx
+
 ## Game Synopsis
 Deep inside of the internals of a standard laser printer, the community of tiny
 robots that keeps print jobs successful is operating normally. Another print job
@@ -14,7 +17,6 @@ use their powers of colour application to solve problems part by part throughout
 the printer, recover the missing pieces of the cartridge, and complete the print
 job.*
 
-
 ## How to Run Game
 * Clone or Fork Repo
 * Open Game.rpgproject from root folder in RPGMaker MV
@@ -28,3 +30,11 @@ job.*
 * D - Tint Yellow
 
 ## Screenshots
+![Title Screen](/screenshots/title.png?raw=true)
+![First Level](/screenshots/1st.png?raw=true)
+![Last level](/screenshots/last.png?raw=true)
+![2nd level](/screenshots/2ndlevel.png?raw=true)
+![Printer Screen](/screenshots/hub.png?raw=true)
+![Cyan Tint Screen](/screenshots/cyan.png?raw=true)
+![Magenta Tint Screen](/screenshots/mag.png?raw=true)
+![Yellow Tint Screen](/screenshots/yellow.png?raw=true)
